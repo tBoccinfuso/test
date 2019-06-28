@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f0bbf"],{"9e41":function(e,t,a){"use strict";a.r(t);var n=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"bios"},[a("h1",[e._v("This is a team bio page - a child of /about")])])}],i={name:"mosaicTeamBios"},c=i,o=a("2877"),l=Object(o["a"])(c,n,s,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0f0bbf.57882c52.js.map
